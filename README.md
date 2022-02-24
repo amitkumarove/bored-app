@@ -10,5 +10,4 @@ The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
 ### Note :
-Swipe functionality is remaining becuse it takes more than 2 hours.
-i have spend only 2 hour for this project.
+Swipe functionality is remaining because it takes more than 2 hours. i have spend only 2 hour for this project.
