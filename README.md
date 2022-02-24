@@ -9,5 +9,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
-### Swipe functionality is remaining becuse it take more than 2 hours.
-So i have sped 2 hour for this project.
+### Note :
+Swipe functionality is remaining becuse it takes more than 2 hours.
+i have spend only 2 hour for this project.
